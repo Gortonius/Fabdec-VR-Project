@@ -1,0 +1,1588 @@
+﻿Log file open, 06/23/18 13:32:56
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: VRMovementTest
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-342953760) SRandInit(-342953760).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3944462, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.574071
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRHMD/Binaries/Win64/UE4Editor-GoogleVRHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/GoogleVR/GoogleVRController/Binaries/Win64/UE4Editor-GoogleVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GoogleVRController
+LogPluginManager: Mounting plugin GoogleVRHMD
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  2.371s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am dan-PC (192.168.0.15:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3944462
+LogInit: Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Mar 13 2018 23:12:32
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: H:/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.000s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.06.23-12.32.59:002][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.23-12.32.59:003][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.06.23-12.32.59:020][  0]LogInit: Computer: DAN-PC
+[2018.06.23-12.32.59:020][  0]LogInit: User: dan
+[2018.06.23-12.32.59:020][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.06.23-12.32.59:020][  0]LogInit: High frequency timer resolution =3.897224 MHz
+[2018.06.23-12.32.59:020][  0]LogMemory: Memory total: Physical=31.8GB (32GB approx)
+[2018.06.23-12.32.59:020][  0]LogMemory: Platform Memory Stats for Windows
+[2018.06.23-12.32.59:020][  0]LogMemory: Process Physical Memory: 273.59 MB used, 273.59 MB peak
+[2018.06.23-12.32.59:020][  0]LogMemory: Process Virtual Memory: 264.61 MB used, 264.61 MB peak
+[2018.06.23-12.32.59:020][  0]LogMemory: Physical Memory: 10220.72 MB used,  22393.09 MB free, 32613.81 MB total
+[2018.06.23-12.32.59:020][  0]LogMemory: Virtual Memory: 4787.66 MB used,  22393.09 MB free, 134217728.00 MB total
+[2018.06.23-12.32.59:445][  0]LogInit: Using OS detected language (en-US).
+[2018.06.23-12.32.59:445][  0]LogInit: Using OS detected locale (en-GB).
+[2018.06.23-12.32.59:624][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2018.06.23-12.33.00:046][  0]LogStreaming: Display: Took  0.600s to EndInitTextLocalization.
+[2018.06.23-12.33.00:046][  0]LogInit: Setting process to per monitor DPI aware
+[2018.06.23-12.33.00:315][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.06.23-12.33.00:315][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.06.23-12.33.04:357][  0]LogD3D11RHI: D3D11 adapters:
+[2018.06.23-12.33.04:399][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 980 Ti' (Feature Level 11_0)
+[2018.06.23-12.33.04:399][  0]LogD3D11RHI:       6097/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.06.23-12.33.04:404][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 4600' (Feature Level 11_0)
+[2018.06.23-12.33.04:404][  0]LogD3D11RHI:       112/0/2048 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x8086
+[2018.06.23-12.33.04:405][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.06.23-12.33.04:405][  0]LogD3D11RHI:       0/0/16306 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.06.23-12.33.04:405][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.06.23-12.33.04:413][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.06.23-12.33.04:413][  0]LogD3D11RHI:     GPU DeviceId: 0x17c8 (for the marketing name, search the web for "GPU Device Id")
+[2018.06.23-12.33.04:413][  0]LogWindows: EnumDisplayDevices:
+[2018.06.23-12.33.04:413][  0]LogWindows:    0. 'NVIDIA GeForce GTX 980 Ti' (P:1 D:1)
+[2018.06.23-12.33.04:413][  0]LogWindows:    1. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.06.23-12.33.04:414][  0]LogWindows:    2. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.06.23-12.33.04:414][  0]LogWindows:    3. 'NVIDIA GeForce GTX 980 Ti' (P:0 D:0)
+[2018.06.23-12.33.04:414][  0]LogWindows:    4. 'Intel(R) HD Graphics 4600' (P:0 D:1)
+[2018.06.23-12.33.04:414][  0]LogWindows:    5. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.06.23-12.33.04:414][  0]LogWindows:    6. 'Intel(R) HD Graphics 4600' (P:0 D:0)
+[2018.06.23-12.33.04:414][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.06.23-12.33.04:414][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 980 Ti
+[2018.06.23-12.33.04:414][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.06.23-12.33.04:414][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.06.23-12.33.04:414][  0]LogRHI: Texture pool is 4268 MB (70% of 6097 MB)
+[2018.06.23-12.33.04:438][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.06.23-12.33.04:438][  0]LogD3D11RHI: Async texture creation enabled
+[2018.06.23-12.33.04:456][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.06.23-12.33.04:460][  0]LogShaderCompilers: Guid format shader working directory is -44 characters bigger than the processId version (C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Intermediate/Shaders/WorkingDirectory/19684/).
+[2018.06.23-12.33.04:460][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/dan/AppData/Local/Temp/UnrealShaderWorkingDir/02D2A3EC4A4A226DE5621AB65CCF760D/'.
+[2018.06.23-12.33.05:179][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.06.23-12.33.05:190][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.06.23-12.33.05:200][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.06.23-12.33.05:211][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.06.23-12.33.05:225][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.06.23-12.33.05:236][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.06.23-12.33.05:247][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.06.23-12.33.05:257][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.06.23-12.33.05:262][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.06.23-12.33.05:272][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.06.23-12.33.05:283][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.06.23-12.33.05:293][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.06.23-12.33.05:304][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.06.23-12.33.05:315][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.06.23-12.33.05:325][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.06.23-12.33.05:347][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.06.23-12.33.05:348][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.06.23-12.33.05:364][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.06.23-12.33.05:365][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.06.23-12.33.05:424][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.06.23-12.33.05:434][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.06.23-12.33.05:444][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.06.23-12.33.05:454][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.06.23-12.33.05:465][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.06.23-12.33.05:479][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.06.23-12.33.05:479][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.06.23-12.33.05:932][  0]LogXGEController: Cleaning working directory: C:/Users/dan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.23-12.33.05:932][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.06.23-12.33.05:932][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.06.23-12.33.05:932][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.06.23-12.33.07:836][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: Loaded boot cache 0.56s 77MB C:/Users/dan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/dan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.06.23-12.33.08:394][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.06.23-12.33.08:417][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.06.23-12.33.08:429][  0]LogDerivedDataCache: Using Local data cache path C:/Users/dan/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.06.23-12.33.08:438][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.06.23-12.33.08:439][  0]LogSlate: Using Freetype 2.6.0
+[2018.06.23-12.33.08:477][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.23-12.33.08:477][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.06.23-12.33.11:203][  0]LogAssetRegistry: FAssetRegistry took 0.0273 seconds to start up
+[2018.06.23-12.33.11:478][  0]LogInit: Selected Device Profile: [Windows]
+[2018.06.23-12.33.11:734][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.06.23-12.33.11:737][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.06.23-12.33.11:737][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.06.23-12.33.11:738][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.06.23-12.33.11:738][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.06.23-12.33.11:738][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.06.23-12.33.11:785][  0]LogNetVersion: VRMovementTest , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 2135611297)
+[2018.06.23-12.33.13:271][  0]LogPackageLocalizationCache: Processed 8 localized package path(s) for 2 prioritized culture(s) in 0.080506 seconds
+[2018.06.23-12.33.13:278][  0]LogUObjectArray: 37147 objects as part of root set at end of initial load.
+[2018.06.23-12.33.13:278][  0]LogUObjectAllocator: 7450648 out of 0 bytes used by permanent object pool.
+[2018.06.23-12.33.13:278][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.06.23-12.33.17:215][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.06.23-12.33.17:250][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.06.23-12.33.17:514][  0]SourceControl: Source control is disabled
+[2018.06.23-12.33.17:514][  0]SourceControl: Source control is disabled
+[2018.06.23-12.33.17:525][  0]SourceControl: Source control is disabled
+[2018.06.23-12.33.17:536][  0]SourceControl: Source control is disabled
+[2018.06.23-12.33.17:910][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.06.23-12.33.18:195][  0]LogEngine: Initializing Engine...
+[2018.06.23-12.33.18:332][  0]LogHMD: GoogleVR API created
+[2018.06.23-12.33.18:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.23-12.33.18:333][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.23-12.33.18:547][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.06.23-12.33.18:594][  0]LogInit: XAudio2 using 'Headset Earphone (2- Corsair VOID Wireless Gaming Dongle)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2018.06.23-12.33.18:618][  0]LogInit: FAudioDevice initialized.
+[2018.06.23-12.33.19:266][  0]LogDerivedDataCache: Saved boot cache 0.65s 77MB C:/Users/dan/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.06.23-12.33.19:276][  0]LogInit: Texture streaming: Enabled
+[2018.06.23-12.33.19:292][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.06.23-12.33.19:306][  0]LogInit: Transaction tracking system initialized
+[2018.06.23-12.33.19:327][  0]BlueprintLog: New page: Editor Load
+[2018.06.23-12.33.19:430][  0]LocalizationService: Localization service is disabled
+[2018.06.23-12.33.19:755][  0]LogConsoleResponse: Display: 
+[2018.06.23-12.33.20:463][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.06.23-12.33.20:463][  0]LogCook: Display: Mobile HDR setting 0
+[2018.06.23-12.33.20:463][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.06.23-12.33.20:463][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.06.23-12.33.20:463][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.06.23-12.33.20:798][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/' took 0.02s
+[2018.06.23-12.33.20:798][  0]SourceControl: Source control is disabled
+[2018.06.23-12.33.20:798][  0]Cmd: MAP LOAD FILE="C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.06.23-12.33.20:799][  0]LightingResults: New page: Lighting Build
+[2018.06.23-12.33.20:800][  0]MapCheck: New page: Map Check
+[2018.06.23-12.33.20:800][  0]LightingResults: New page: Lighting Build
+[2018.06.23-12.33.27:405][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_60.fbx_Body_60.
+[2018.06.23-12.33.27:405][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_60.fbx_Body_60:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.28:137][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_85.fbx_Body_85.
+[2018.06.23-12.33.28:137][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_85.fbx_Body_85:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.28:429][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_71.fbx_Body_71.
+[2018.06.23-12.33.28:429][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_71.fbx_Body_71:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.28:669][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_72.fbx_Body_72.
+[2018.06.23-12.33.28:669][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_72.fbx_Body_72:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.28:991][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_73.fbx_Body_73.
+[2018.06.23-12.33.28:991][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_73.fbx_Body_73:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.29:152][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_74.fbx_Body_74.
+[2018.06.23-12.33.29:152][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_74.fbx_Body_74:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.29:422][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_75.fbx_Body_75.
+[2018.06.23-12.33.29:422][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_75.fbx_Body_75:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.29:853][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_81.fbx_Body_81.
+[2018.06.23-12.33.29:853][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_81.fbx_Body_81:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91 0 (FlipX:0). The remaining elements will not get cooked.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.30:074][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91 0 (FlipX:1). The remaining elements will not get cooked.
+[2018.06.23-12.33.30:075][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91.
+[2018.06.23-12.33.30:075][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.30:846][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677.
+[2018.06.23-12.33.30:846][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.31:443][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191.
+[2018.06.23-12.33.31:443][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.31:747][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1192.fbx_3DGeom_1192.
+[2018.06.23-12.33.31:747][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1192.fbx_3DGeom_1192:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.31:848][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1193.fbx_3DGeom_1193.
+[2018.06.23-12.33.31:848][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1193.fbx_3DGeom_1193:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.32:165][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1207.fbx_3DGeom_1207.
+[2018.06.23-12.33.32:165][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1207.fbx_3DGeom_1207:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.32:523][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1322.fbx_3DGeom_1322.
+[2018.06.23-12.33.32:523][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1322.fbx_3DGeom_1322:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.32:634][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1323.fbx_3DGeom_1323.
+[2018.06.23-12.33.32:634][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1323.fbx_3DGeom_1323:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.32:909][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1330.fbx_3DGeom_1330.
+[2018.06.23-12.33.32:909][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1330.fbx_3DGeom_1330:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.33:007][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1331.fbx_3DGeom_1331.
+[2018.06.23-12.33.33:007][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1331.fbx_3DGeom_1331:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.33:281][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1345.fbx_3DGeom_1345.
+[2018.06.23-12.33.33:281][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1345.fbx_3DGeom_1345:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.33:568][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1346.fbx_3DGeom_1346.
+[2018.06.23-12.33.33:568][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1346.fbx_3DGeom_1346:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.34:569][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208 0 (FlipX:0). The remaining elements will not get cooked.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208 0 (FlipX:1). The remaining elements will not get cooked.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208.
+[2018.06.23-12.33.34:570][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.34:643][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3209.fbx_3DGeom_3209.
+[2018.06.23-12.33.34:643][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3209.fbx_3DGeom_3209:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.34:921][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210.
+[2018.06.23-12.33.34:921][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:165][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3211.fbx_3DGeom_3211.
+[2018.06.23-12.33.35:165][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3211.fbx_3DGeom_3211:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:318][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3213.fbx_3DGeom_3213.
+[2018.06.23-12.33.35:318][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3213.fbx_3DGeom_3213:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:375][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3214.fbx_3DGeom_3214.
+[2018.06.23-12.33.35:375][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3214.fbx_3DGeom_3214:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:474][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3215.fbx_3DGeom_3215.
+[2018.06.23-12.33.35:474][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3215.fbx_3DGeom_3215:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:531][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3216.fbx_3DGeom_3216.
+[2018.06.23-12.33.35:531][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3216.fbx_3DGeom_3216:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:664][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3219.fbx_3DGeom_3219.
+[2018.06.23-12.33.35:664][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3219.fbx_3DGeom_3219:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:722][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3220.fbx_3DGeom_3220.
+[2018.06.23-12.33.35:722][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3220.fbx_3DGeom_3220:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:805][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_33.fbx_3DGeom_33.
+[2018.06.23-12.33.35:805][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_33.fbx_3DGeom_33:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:826][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3511.fbx_3DGeom_3511.
+[2018.06.23-12.33.35:826][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3511.fbx_3DGeom_3511:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:879][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3512.fbx_3DGeom_3512.
+[2018.06.23-12.33.35:879][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3512.fbx_3DGeom_3512:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:907][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3513.fbx_3DGeom_3513.
+[2018.06.23-12.33.35:907][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3513.fbx_3DGeom_3513:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:934][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3716.fbx_3DGeom_3716.
+[2018.06.23-12.33.35:934][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3716.fbx_3DGeom_3716:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.35:973][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3717.fbx_3DGeom_3717.
+[2018.06.23-12.33.35:973][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3717.fbx_3DGeom_3717:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:009][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_4017.fbx_3DGeom_4017.
+[2018.06.23-12.33.36:009][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_4017.fbx_3DGeom_4017:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:047][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_4018.fbx_3DGeom_4018.
+[2018.06.23-12.33.36:047][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_4018.fbx_3DGeom_4018:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:107][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_4116.fbx_3DGeom_4116.
+[2018.06.23-12.33.36:107][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_4116.fbx_3DGeom_4116:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:136][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_4117.fbx_3DGeom_4117.
+[2018.06.23-12.33.36:136][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_4117.fbx_3DGeom_4117:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:180][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_4118.fbx_3DGeom_4118.
+[2018.06.23-12.33.36:180][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_4118.fbx_3DGeom_4118:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:288][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5156.fbx_3DGeom_5156.
+[2018.06.23-12.33.36:288][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5156.fbx_3DGeom_5156:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:335][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5460.fbx_3DGeom_5460.
+[2018.06.23-12.33.36:335][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5460.fbx_3DGeom_5460:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:413][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5606.fbx_3DGeom_5606.
+[2018.06.23-12.33.36:413][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5606.fbx_3DGeom_5606:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:682][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_6106.fbx_3DGeom_6106.
+[2018.06.23-12.33.36:682][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_6106.fbx_3DGeom_6106:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:712][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_646.fbx_3DGeom_646.
+[2018.06.23-12.33.36:712][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_646.fbx_3DGeom_646:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:762][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_648.fbx_3DGeom_648.
+[2018.06.23-12.33.36:762][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_648.fbx_3DGeom_648:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:797][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_650.fbx_3DGeom_650.
+[2018.06.23-12.33.36:797][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_650.fbx_3DGeom_650:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:838][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_651.fbx_3DGeom_651.
+[2018.06.23-12.33.36:838][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_651.fbx_3DGeom_651:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:854][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_652.fbx_3DGeom_652.
+[2018.06.23-12.33.36:854][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_652.fbx_3DGeom_652:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:867][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_654.fbx_3DGeom_654.
+[2018.06.23-12.33.36:867][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_654.fbx_3DGeom_654:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:909][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_655.fbx_3DGeom_655.
+[2018.06.23-12.33.36:909][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_655.fbx_3DGeom_655:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:947][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_656.fbx_3DGeom_656.
+[2018.06.23-12.33.36:947][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_656.fbx_3DGeom_656:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.36:991][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_657.fbx_3DGeom_657.
+[2018.06.23-12.33.36:991][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_657.fbx_3DGeom_657:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_3DGeom_93.fbx_3DGeom_93 0 (FlipX:0). The remaining elements will not get cooked.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: PHYSX: (D:\Build\++UE4+Dev-AnimPhys+Engine\Sync\Engine\Source\ThirdParty\PhysX3\PhysX_3.4\Source\PhysXCooking\src\convex\QuickHullConvexHullLib.cpp 937) eINTERNAL_ERROR : QuickHullConvexHullLib::findSimplex: Simplex input points appers to be coplanar.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: Failed to cook convex: /Game/RiverShader/Materials/fbx_3DGeom_93.fbx_3DGeom_93 0 (FlipX:1). The remaining elements will not get cooked.
+[2018.06.23-12.33.37:090][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_93.fbx_3DGeom_93:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:120][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_94.fbx_3DGeom_94.
+[2018.06.23-12.33.37:120][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_94.fbx_3DGeom_94:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:185][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_95.fbx_3DGeom_95.
+[2018.06.23-12.33.37:185][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_95.fbx_3DGeom_95:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:209][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956.
+[2018.06.23-12.33.37:209][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:247][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_957.fbx_3DGeom_957.
+[2018.06.23-12.33.37:248][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_957.fbx_3DGeom_957:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:302][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15.
+[2018.06.23-12.33.37:302][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:323][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_23.fbx_Body_23.
+[2018.06.23-12.33.37:323][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_23.fbx_Body_23:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:354][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_25.fbx_Body_25.
+[2018.06.23-12.33.37:354][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_25.fbx_Body_25:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:407][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_26.fbx_Body_26.
+[2018.06.23-12.33.37:407][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_26.fbx_Body_26:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:475][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_28.fbx_Body_28.
+[2018.06.23-12.33.37:475][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_28.fbx_Body_28:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:513][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_29.fbx_Body_29.
+[2018.06.23-12.33.37:513][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_29.fbx_Body_29:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:548][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_30.fbx_Body_30.
+[2018.06.23-12.33.37:548][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_30.fbx_Body_30:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:581][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_31.fbx_Body_31.
+[2018.06.23-12.33.37:581][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_31.fbx_Body_31:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:617][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_32.fbx_Body_32.
+[2018.06.23-12.33.37:618][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_32.fbx_Body_32:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:776][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_39.fbx_Body_39.
+[2018.06.23-12.33.37:776][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_39.fbx_Body_39:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:795][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_40.fbx_Body_40.
+[2018.06.23-12.33.37:795][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_40.fbx_Body_40:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:829][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_42.fbx_Body_42.
+[2018.06.23-12.33.37:829][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_42.fbx_Body_42:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:850][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_43.fbx_Body_43.
+[2018.06.23-12.33.37:850][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_43.fbx_Body_43:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.37:883][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_44.fbx_Body_44.
+[2018.06.23-12.33.37:884][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_44.fbx_Body_44:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:013][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_5.fbx_Body_5.
+[2018.06.23-12.33.38:013][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_5.fbx_Body_5:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:036][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50.
+[2018.06.23-12.33.38:036][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:062][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_51.fbx_Body_51.
+[2018.06.23-12.33.38:062][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_51.fbx_Body_51:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:109][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_52.fbx_Body_52.
+[2018.06.23-12.33.38:109][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_52.fbx_Body_52:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:142][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_53.fbx_Body_53.
+[2018.06.23-12.33.38:142][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_53.fbx_Body_53:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:166][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_54.fbx_Body_54.
+[2018.06.23-12.33.38:166][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_54.fbx_Body_54:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:188][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_55.fbx_Body_55.
+[2018.06.23-12.33.38:188][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_55.fbx_Body_55:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:263][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_66.fbx_Body_66.
+[2018.06.23-12.33.38:263][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_66.fbx_Body_66:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:295][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_70.fbx_Body_70.
+[2018.06.23-12.33.38:295][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_70.fbx_Body_70:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:329][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_76.fbx_Body_76.
+[2018.06.23-12.33.38:329][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_76.fbx_Body_76:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:389][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_78.fbx_Body_78.
+[2018.06.23-12.33.38:389][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_78.fbx_Body_78:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:419][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_79.fbx_Body_79.
+[2018.06.23-12.33.38:419][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_79.fbx_Body_79:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:463][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_80.fbx_Body_80.
+[2018.06.23-12.33.38:463][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_80.fbx_Body_80:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:497][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_82.fbx_Body_82.
+[2018.06.23-12.33.38:497][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_82.fbx_Body_82:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:579][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_83.fbx_Body_83.
+[2018.06.23-12.33.38:579][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_83.fbx_Body_83:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:618][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_84.fbx_Body_84.
+[2018.06.23-12.33.38:618][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_84.fbx_Body_84:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:656][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_86.fbx_Body_86.
+[2018.06.23-12.33.38:657][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_86.fbx_Body_86:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:824][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_92.fbx_Body_92.
+[2018.06.23-12.33.38:824][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_92.fbx_Body_92:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:899][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_93.fbx_Body_93.
+[2018.06.23-12.33.38:899][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_93.fbx_Body_93:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.38:960][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_94.fbx_Body_94.
+[2018.06.23-12.33.38:960][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_94.fbx_Body_94:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:026][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12.
+[2018.06.23-12.33.39:026][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:283][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_1206.fbx_3DGeom_1206.
+[2018.06.23-12.33.39:283][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_1206.fbx_3DGeom_1206:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:308][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_653.fbx_3DGeom_653.
+[2018.06.23-12.33.39:308][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_653.fbx_3DGeom_653:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:346][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_649.fbx_3DGeom_649.
+[2018.06.23-12.33.39:346][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_649.fbx_3DGeom_649:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:498][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_8.fbx_Body_8.
+[2018.06.23-12.33.39:498][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_8.fbx_Body_8:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:532][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5610.fbx_3DGeom_5610.
+[2018.06.23-12.33.39:532][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5610.fbx_3DGeom_5610:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:574][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5609.fbx_3DGeom_5609.
+[2018.06.23-12.33.39:574][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5609.fbx_3DGeom_5609:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.39:598][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_65.fbx_Body_65.
+[2018.06.23-12.33.39:598][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_65.fbx_Body_65:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.40:010][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5607.fbx_3DGeom_5607.
+[2018.06.23-12.33.40:010][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5607.fbx_3DGeom_5607:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.41:661][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_5608.fbx_3DGeom_5608.
+[2018.06.23-12.33.41:661][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_5608.fbx_3DGeom_5608:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.41:828][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_3DGeom_3221.fbx_3DGeom_3221.
+[2018.06.23-12.33.41:828][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_3DGeom_3221.fbx_3DGeom_3221:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.42:200][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_27.fbx_Body_27.
+[2018.06.23-12.33.42:200][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_27.fbx_Body_27:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.42:288][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_77.fbx_Body_77.
+[2018.06.23-12.33.42:288][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_77.fbx_Body_77:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.42:296][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_67.fbx_Body_67.
+[2018.06.23-12.33.42:296][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_67.fbx_Body_67:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.42:332][  0]LogPhysics: Warning: Failed to cook TriMesh: /Game/RiverShader/Materials/fbx_Body_64.fbx_Body_64.
+[2018.06.23-12.33.42:332][  0]LogPhysics: Warning: Attempt to build physics data for /Game/RiverShader/Materials/fbx_Body_64.fbx_Body_64:BodySetup_0 when we are unable to.
+[2018.06.23-12.33.42:560][  0]LogAIModule: Creating AISystem for world TEstMap
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_648.fbx_3DGeom_648] ScaledElem[0] invalid
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956] ScaledElem[0] invalid
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956] ScaledElem[1] invalid
+[2018.06.23-12.33.42:567][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191] ScaledElem[1] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1192.fbx_3DGeom_1192] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1193.fbx_3DGeom_1193] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1323.fbx_3DGeom_1323] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208] ScaledElem[1] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210] ScaledElem[1] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3213.fbx_3DGeom_3213] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3214.fbx_3DGeom_3214] ScaledElem[0] invalid
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:568][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3216.fbx_3DGeom_3216] ScaledElem[0] invalid
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3717.fbx_3DGeom_3717] ScaledElem[0] invalid
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_4017.fbx_3DGeom_4017] ScaledElem[0] invalid
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15] ScaledElem[0] invalid
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:569][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15] ScaledElem[1] invalid
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_44.fbx_Body_44] ScaledElem[0] invalid
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50] ScaledElem[0] invalid
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50] ScaledElem[1] invalid
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:570][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_55.fbx_Body_55] ScaledElem[0] invalid
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91] ScaledElem[0] invalid
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91] ScaledElem[1] invalid
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_33.fbx_3DGeom_33] ScaledElem[0] invalid
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:572][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_93.fbx_3DGeom_93] ScaledElem[0] invalid
+[2018.06.23-12.33.42:575][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:575][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-12.33.42:576][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:576][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-12.33.42:577][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:577][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_649.fbx_3DGeom_649] ScaledElem[0] invalid
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:589][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-12.33.42:590][  0]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-12.33.42:590][  0]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-12.33.42:600][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.06.23-12.33.42:625][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.06.23-12.33.42:727][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 101.642ms to complete.
+[2018.06.23-12.33.42:727][  0]LogFileHelpers: Loading map 'TEstMap' took 21.928
+[2018.06.23-12.33.42:865][  0]LogCollectionManager: Loaded 0 collections in 0.000770 seconds
+[2018.06.23-12.33.42:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Collections/' took 0.01s
+[2018.06.23-12.33.42:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Developers/dan/Collections/' took 0.01s
+[2018.06.23-12.33.42:906][  0]LogFileCache: Scanning file cache for directory 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Collections/' took 0.01s
+[2018.06.23-12.33.42:906][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.06.23-12.33.42:915][  0]LogContentBrowser: Native class hierarchy populated in 0.0088 seconds. Added 2459 classes and 556 folders.
+[2018.06.23-12.33.42:920][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.23-12.33.43:747][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.23-12.33.43:755][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.06.23-12.33.45:190][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2018.06.23-12.33.45:232][  0]LogDirectoryWatcher: Warning: Failed to begin reading directory changes for C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Plugins/. Error: The system cannot find the file specified. (0x00000002)
+[2018.06.23-12.33.45:244][  0]LogSlate: Took 0.006256 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.06.23-12.33.45:251][  0]LogTemp: Executing iPhonePackager certificates Engine -bundlename com.YourCompany.VRMovementTest
+[2018.06.23-12.33.45:251][  0]LogTemp: CWD: H:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.06.23-12.33.45:251][  0]LogTemp: Initial Dir: H:\UE_4.19
+[2018.06.23-12.33.45:251][  0]LogTemp: Env CWD: H:\UE_4.19\Engine\Binaries\DotNET\IOS
+[2018.06.23-12.33.45:251][  0]LogTemp: BranchPath = DAN-PC/H/UE_4.19/Engine/Binaries --- GameBranchPath = DAN-PC/H/UE_4.19/Engine/Binaries
+[2018.06.23-12.33.45:251][  0]LogSlate: Took 0.004641 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.06.23-12.33.45:259][  0]LogTemp: IPP ERROR: Could not find provision directory 'C:\Users\dan\AppData\Local/Apple Computer/MobileDevice/Provisioning Profiles/'.
+[2018.06.23-12.33.45:259][  0]LogSlate: Took 0.004945 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.06.23-12.33.45:667][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.06.23-12.33.45:725][  0]LogSlate: Took 0.008263 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.23-12.33.45:864][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.06.23-12.33.45:865][  0]LogLoad: (Engine Initialization) Total time: 51.99 seconds
+[2018.06.23-12.33.45:865][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.06.23-12.33.46:204][  0]LogGoogleVRController: Creating Input Device: GoogleVRController -- Supported
+[2018.06.23-12.33.46:204][  0]LogGoogleVRController: Successfully initialized GoogleVR Controller.
+[2018.06.23-12.33.46:204][  0]LogGoogleVRController: GoogleVR Controller Created
+[2018.06.23-12.33.46:246][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2018.06.23-12.33.46:551][  1]LogAssetRegistry: Asset discovery search completed in 35.3716 seconds
+[2018.06.23-12.33.46:553][  1]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.06.23-12.33.46:553][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000044 seconds (updated 0 objects)
+[2018.06.23-12.33.53:201][ 21]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-12.34.09:395][857]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-12.34.09:591][878]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.06.23-12.34.09:609][878]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.09:609][878]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.09:611][878]LogSlate: Took 0.000143 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.06.23-12.34.09:637][878]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.06.23-12.34.09:975][878]LogMaterial: Missing cached shader map for material NewMaterial1, compiling. 
+[2018.06.23-12.34.09:980][878]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.09:981][878]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.10:014][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionConstant3Vector_0, compiling. 
+[2018.06.23-12.34.10:017][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureCoordinate_0, compiling. 
+[2018.06.23-12.34.10:019][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionOneMinus_0, compiling. 
+[2018.06.23-12.34.10:033][878]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionCeil_0, compiling. 
+[2018.06.23-12.34.10:050][878]LogSlate: Took 0.005746 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.06.23-12.34.10:169][879]LogSlate: Took 0.005973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.06.23-12.34.10:605][899]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.10:651][901]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.10:690][903]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.10:786][908]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.10:848][911]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.10:990][917]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.10:990][917]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.11:065][921]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.11:186][926]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.11:204][927]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.11:204][927]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.11:302][932]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.11:332][933]MaterialEditorStats: Default UI Pixel Shader: 15 instructions
+[2018.06.23-12.34.11:332][933]MaterialEditorStats: Default UI Vertex Shader: 17 instructions
+[2018.06.23-12.34.11:332][933]MaterialEditorStats: Instanced UI Vertex Shader: 17 instructions
+[2018.06.23-12.34.11:332][933]MaterialEditorStats: Texture samplers: 1/16
+[2018.06.23-12.34.11:559][942]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.11:676][948]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.11:839][956]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.11:949][962]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.12:040][967]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.15:644][303]LogSlate: Window 'NewMaterial1' being destroyed
+[2018.06.23-12.34.24:925][305]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.25:139][305]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.25:164][305]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.25:171][305]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.25:171][305]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.25:171][305]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.25:171][305]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.25:195][305]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.23-12.34.25:385][309]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.25:419][311]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.25:457][313]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.25:475][314]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.25:589][320]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.25:623][322]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.25:687][326]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.26:228][355]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.26:228][355]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.26:228][355]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.26:228][355]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.26:554][372]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.26:594][374]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.26:811][387]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.26:825][388]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.27:067][404]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: Base pass shader: 148 instructions
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: Vertex shader: 94 instructions
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.23-12.34.27:097][406]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.23-12.34.28:761][562]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.28:819][563]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.28:819][563]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.28:819][563]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.28:819][563]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.29:004][572]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.29:038][574]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.29:038][574]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.29:089][577]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.29:169][581]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.29:217][584]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.29:248][586]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.29:659][607]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.29:672][608]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.29:715][611]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.29:760][614]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.29:954][624]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.30:050][630]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.30:247][643]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.31:358][747]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.31:367][747]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.31:367][747]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.31:367][747]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.31:367][747]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.31:369][747]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.23-12.34.31:622][761]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.31:637][762]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.31:694][763]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.31:695][763]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.31:817][770]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.31:834][771]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.31:890][774]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.32:147][787]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.32:339][797]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.32:357][798]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.32:448][804]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.32:464][805]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.32:791][823]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.32:955][833]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.32:955][833]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.33:003][836]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: Base pass shader: 148 instructions
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: Vertex shader: 94 instructions
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.23-12.34.33:306][851]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.23-12.34.35:512][ 57]LogMaterialEditor: Saving and Compiling material CIPHE-logo__2__Mat
+[2018.06.23-12.34.35:912][ 57]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.35:939][ 57]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.35:939][ 57]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.35:939][ 57]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.35:939][ 57]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.35:955][ 57]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.35:989][ 57]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.36:027][ 57]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.23-12.34.37:240][ 57]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.23-12.34.37:242][ 57]TextureStreamingBuild: Display: Compiling optional shaders took 1.222 seconds.
+[2018.06.23-12.34.37:267][ 57]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.39:655][ 57]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.39:698][ 57]LogSavePackage: Save=14.29ms
+[2018.06.23-12.34.39:698][ 57]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/CIPHE-logo__2__Mat4400AFB840DA299933D2E69F25364AA7.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Widgets/CIPHE-logo__2__Mat.uasset'
+[2018.06.23-12.34.39:702][ 57]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Widgets/CIPHE-logo__2__Mat.uasset
+[2018.06.23-12.34.40:841][160]LogSlate: Window 'CIPHE-logo__2__Mat' being destroyed
+[2018.06.23-12.34.47:158][862]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.23-12.34.47:218][862]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.23-12.34.47:229][862]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.23-12.34.47:249][862]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.47:249][862]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.47:249][862]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.47:249][862]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.47:261][862]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.23-12.34.47:447][866]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.47:481][868]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.47:498][869]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.47:514][870]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.47:684][880]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.47:709][880]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.47:709][880]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.48:009][895]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.48:202][906]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.48:234][908]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.48:249][909]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.48:309][913]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.48:549][927]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.48:726][939]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.48:740][940]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.48:752][941]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.49:277][987]MaterialEditorStats: Base pass shader: 148 instructions
+[2018.06.23-12.34.49:277][987]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2018.06.23-12.34.49:277][987]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2018.06.23-12.34.49:277][987]MaterialEditorStats: Vertex shader: 94 instructions
+[2018.06.23-12.34.49:278][987]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.23-12.34.49:278][987]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.23-12.34.51:363][189]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.23-12.34.51:373][189]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.51:373][189]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.51:373][189]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.51:373][189]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.51:373][189]LogMaterial: Missing cached shader map for material FMatExpressionPreview MaterialExpressionTextureSample_0, compiling. 
+[2018.06.23-12.34.51:657][203]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.51:673][204]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.51:689][205]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-12.34.51:689][205]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-12.34.51:843][214]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-12.34.51:879][216]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.51:896][217]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-12.34.52:162][232]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-12.34.52:397][245]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-12.34.52:398][245]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-12.34.52:444][248]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-12.34.52:459][249]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-12.34.52:791][268]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-12.34.52:935][277]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-12.34.52:952][278]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-12.34.53:000][281]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: Base pass shader: 148 instructions
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: Vertex shader: 94 instructions
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.23-12.34.53:297][297]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.23-12.34.56:004][551]LogMaterialEditor: Applying material CIPHE-logo__2__Mat
+[2018.06.23-12.34.56:378][551]LogMaterial: Missing cached shader map for material PreviewMaterial_0, compiling. 
+[2018.06.23-12.34.56:402][551]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-12.34.56:402][551]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-12.34.56:402][551]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-12.34.56:402][551]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-12.34.56:437][551]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.56:467][551]LogMaterial: Missing cached shader map for material CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.56:510][551]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-12.34.57:704][551]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.23-12.34.57:704][551]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.06.23-12.34.57:704][551]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.23-12.34.57:705][551]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-12.34.57:706][551]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-12.34.57:708][551]TextureStreamingBuild: Display: Compiling optional shaders took 1.207 seconds.
+[2018.06.23-12.35.00:341][735]LogSlate: Window 'CIPHE-logo__2__Mat*' being destroyed
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: Base pass shader: 148 instructions
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: Base pass shader with Surface Lightmap: 165 instructions
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 221 instructions
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: Vertex shader: 94 instructions
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: Texture samplers: 4/16
+[2018.06.23-12.35.00:932][772]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2018.06.23-12.35.16:216][640]LogSlate: Window 'CIPHE-logo__2__Mat*' being destroyed
+[2018.06.23-12.35.19:048][939]LogSlate: New Slate User Created.  User Index 8, Is Virtual User: 1
+[2018.06.23-12.35.19:048][939]LogSlate: Slate User Registered.  User Index 8, Is Virtual User: 1
+[2018.06.23-12.35.19:541][963]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0006 seconds. Added 116 classes and 0 folders.
+[2018.06.23-12.35.23:601][164]LogSlate: Window 'TEstMap - Level Blueprint Editor' being destroyed
+[2018.06.23-12.36.57:397][473]BlueprintLog: New page: Compile GoogleVRPawn
+[2018.06.23-12.43.46:692][928]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TEstMap' took 0.040
+[2018.06.23-12.43.46:696][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/TeleportVR/VR_Pawns/GoogleVRPawn] ([1] browsable assets)...
+[2018.06.23-12.43.46:710][928]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/TeleportVR/VR_Pawns/GoogleVRPawn.GoogleVRPawn]
+[2018.06.23-12.43.46:710][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/TeleportVR/VR_Pawns/GoogleVRPawn]
+[2018.06.23-12.43.46:775][928]LogSavePackage: Save=53.46ms
+[2018.06.23-12.43.46:775][928]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/GoogleVRPawn_Auto1EEC76E904102A131D74174BFA33D28CE.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TeleportVR/VR_Pawns/GoogleVRPawn_Auto1.uasset'
+[2018.06.23-12.43.46:776][928]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TeleportVR/VR_Pawns/GoogleVRPawn_Auto1.uasset
+[2018.06.23-12.43.46:777][928]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/CIPHE-logo__2__Mat] ([1] browsable assets)...
+[2018.06.23-12.43.46:790][928]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Widgets/CIPHE-logo__2__Mat.CIPHE-logo__2__Mat]
+[2018.06.23-12.43.46:790][928]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/CIPHE-logo__2__Mat]
+[2018.06.23-12.43.46:815][928]LogSavePackage: Save=15.96ms
+[2018.06.23-12.43.46:815][928]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/CIPHE-logo__2__Mat_Auto1FF7B69E04C498C80271BC5A09ECACFB9.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/Widgets/CIPHE-logo__2__Mat_Auto1.uasset'
+[2018.06.23-12.43.46:817][928]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/Widgets/CIPHE-logo__2__Mat_Auto1.uasset
+[2018.06.23-12.43.46:817][928]LogFileHelpers: Auto-saving content packages took 0.123
+[2018.06.23-13.16.21:730][919]LogSavePackage: Save=791.42ms
+[2018.06.23-13.16.21:730][919]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap_Auto297FC2E4B47AE0F5129C0C39FFEE0346F.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto2.umap'
+[2018.06.23-13.16.21:731][919]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto2.umap
+[2018.06.23-13.16.21:736][919]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TEstMap' took 0.839
+[2018.06.23-13.16.21:736][919]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.839
+[2018.06.23-13.26.24:491][603]LogSavePackage: Save=897.45ms
+[2018.06.23-13.26.24:491][603]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap_Auto3827AEE2C41072250F14648A9CB150362.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto3.umap'
+[2018.06.23-13.26.24:516][603]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto3.umap
+[2018.06.23-13.26.24:519][603]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TEstMap' took 0.969
+[2018.06.23-13.26.24:519][603]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.969
+[2018.06.23-13.36.26:285][926]LogSavePackage: Save=701.27ms
+[2018.06.23-13.36.26:286][926]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap_Auto49C4FFE684FDC56FCAB008698F1477FA9.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto4.umap'
+[2018.06.23-13.36.26:287][926]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto4.umap
+[2018.06.23-13.36.26:289][926]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TEstMap' took 0.747
+[2018.06.23-13.36.26:289][926]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.747
+[2018.06.23-14.07.05:419][287]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube4)
+[2018.06.23-14.07.09:306][671]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-14.07.09:826][729]LogActorFactory: Actor Factory created Cube
+[2018.06.23-14.07.10:686][797]LogActorFactory: Actor Factory created Cube
+[2018.06.23-14.07.13:515][ 49]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-14.07.24:880][194]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.06.23-14.07.44:972][194]Cmd: TRANSACTION UNDO
+[2018.06.23-14.07.44:972][194]LogEditorTransaction: Undo Move Actors
+[2018.06.23-14.07.45:946][271]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Cube5)
+[2018.06.23-14.08.14:727][167]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-14.08.14:826][179]Cmd: MODE GRID=0
+[2018.06.23-14.08.37:062][458]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.06.23-14.08.37:146][468]MapCheck: New page: Map Check
+[2018.06.23-14.08.37:163][468]Cmd: MAP REBUILD ALLVISIBLE
+[2018.06.23-14.08.37:163][468]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_648.fbx_3DGeom_648] ScaledElem[0] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956] ScaledElem[0] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_956.fbx_3DGeom_956] ScaledElem[1] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191] ScaledElem[0] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1191.fbx_3DGeom_1191] ScaledElem[1] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1192.fbx_3DGeom_1192] ScaledElem[0] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1193.fbx_3DGeom_1193] ScaledElem[0] invalid
+[2018.06.23-14.08.37:284][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_1323.fbx_3DGeom_1323] ScaledElem[0] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208] ScaledElem[0] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3208.fbx_3DGeom_3208] ScaledElem[1] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210] ScaledElem[0] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3210.fbx_3DGeom_3210] ScaledElem[1] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3213.fbx_3DGeom_3213] ScaledElem[0] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3214.fbx_3DGeom_3214] ScaledElem[0] invalid
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:285][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3216.fbx_3DGeom_3216] ScaledElem[0] invalid
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_3717.fbx_3DGeom_3717] ScaledElem[0] invalid
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_4017.fbx_3DGeom_4017] ScaledElem[0] invalid
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15] ScaledElem[0] invalid
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:286][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_15.fbx_Body_15] ScaledElem[1] invalid
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_44.fbx_Body_44] ScaledElem[0] invalid
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50] ScaledElem[0] invalid
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_50.fbx_Body_50] ScaledElem[1] invalid
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:287][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_55.fbx_Body_55] ScaledElem[0] invalid
+[2018.06.23-14.08.37:289][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91] ScaledElem[0] invalid
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_91.fbx_Body_91] ScaledElem[1] invalid
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_33.fbx_3DGeom_33] ScaledElem[0] invalid
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:290][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_93.fbx_3DGeom_93] ScaledElem[0] invalid
+[2018.06.23-14.08.37:292][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:292][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-14.08.37:293][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:293][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-14.08.37:294][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:294][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_649.fbx_3DGeom_649] ScaledElem[0] invalid
+[2018.06.23-14.08.37:306][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:306][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-14.08.37:307][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:307][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_3DGeom_677.fbx_3DGeom_677] ScaledElem[0] invalid
+[2018.06.23-14.08.37:308][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:308][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-14.08.37:308][468]LogPhysics: Warning: PopulatePhysXGeometryAndTransform(Convex): ConvexElem is missing ConvexMesh
+[2018.06.23-14.08.37:308][468]LogPhysics: Warning: ForeachShape(Convex): [/Game/RiverShader/Materials/fbx_Body_12.fbx_Body_12] ScaledElem[0] invalid
+[2018.06.23-14.08.37:408][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy WorldGridMaterial, compiling. Is special engine material.
+[2018.06.23-14.08.37:413][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy sweet-design-tile-floor-texture-16-free-floor-textures_Mat, compiling. 
+[2018.06.23-14.08.37:417][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy MaterialInstanceDynamic_7, compiling. 
+[2018.06.23-14.08.37:421][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy BasicShapeMaterial, compiling. 
+[2018.06.23-14.08.37:426][468]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-14.08.37:426][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-14.08.37:426][468]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-14.08.37:426][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl, compiling. 
+[2018.06.23-14.08.37:431][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl5, compiling. 
+[2018.06.23-14.08.37:435][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl8, compiling. 
+[2018.06.23-14.08.37:440][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl12, compiling. 
+[2018.06.23-14.08.37:445][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtlb, compiling. 
+[2018.06.23-14.08.37:450][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtla, compiling. 
+[2018.06.23-14.08.37:454][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl15, compiling. 
+[2018.06.23-14.08.37:461][468]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-14.08.37:461][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl10, compiling. 
+[2018.06.23-14.08.37:467][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl14, compiling. 
+[2018.06.23-14.08.37:473][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl11, compiling. 
+[2018.06.23-14.08.37:479][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl19, compiling. 
+[2018.06.23-14.08.37:485][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl3a, compiling. 
+[2018.06.23-14.08.37:491][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl28, compiling. 
+[2018.06.23-14.08.37:497][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl2, compiling. 
+[2018.06.23-14.08.37:510][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PR, compiling. 
+[2018.06.23-14.08.37:516][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl27, compiling. 
+[2018.06.23-14.08.37:521][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl30, compiling. 
+[2018.06.23-14.08.37:526][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl16, compiling. 
+[2018.06.23-14.08.37:531][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl32, compiling. 
+[2018.06.23-14.08.37:536][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl40, compiling. 
+[2018.06.23-14.08.37:541][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl46, compiling. 
+[2018.06.23-14.08.37:546][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl48, compiling. 
+[2018.06.23-14.08.37:550][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl45, compiling. 
+[2018.06.23-14.08.37:556][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl4, compiling. 
+[2018.06.23-14.08.37:560][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl42, compiling. 
+[2018.06.23-14.08.37:564][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl43, compiling. 
+[2018.06.23-14.08.37:569][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl44, compiling. 
+[2018.06.23-14.08.37:573][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl24, compiling. 
+[2018.06.23-14.08.37:578][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl58, compiling. 
+[2018.06.23-14.08.37:582][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl61, compiling. 
+[2018.06.23-14.08.37:586][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl62, compiling. 
+[2018.06.23-14.08.37:590][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy texture, compiling. 
+[2018.06.23-14.08.37:595][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl7, compiling. 
+[2018.06.23-14.08.37:599][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy PF, compiling. 
+[2018.06.23-14.08.37:605][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy COLDFLOW, compiling. 
+[2018.06.23-14.08.37:611][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy HOTFLOW, compiling. 
+[2018.06.23-14.08.37:616][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy COLDFLOW2, compiling. 
+[2018.06.23-14.08.37:621][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl6b, compiling. 
+[2018.06.23-14.08.37:626][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy texture70, compiling. 
+[2018.06.23-14.08.37:631][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl71, compiling. 
+[2018.06.23-14.08.37:635][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl73, compiling. 
+[2018.06.23-14.08.37:640][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Bubble_Mat, compiling. 
+[2018.06.23-14.08.37:645][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl3, compiling. 
+[2018.06.23-14.08.37:651][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl59, compiling. 
+[2018.06.23-14.08.37:658][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial, compiling. 
+[2018.06.23-14.08.37:663][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CHROME, compiling. 
+[2018.06.23-14.08.37:669][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CYLTOP, compiling. 
+[2018.06.23-14.08.37:675][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CYLOUTER, compiling. 
+[2018.06.23-14.08.37:682][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CYLINSIDE, compiling. 
+[2018.06.23-14.08.37:686][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl9, compiling. 
+[2018.06.23-14.08.37:692][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy TANK, compiling. 
+[2018.06.23-14.08.37:697][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy texture72, compiling. 
+[2018.06.23-14.08.37:702][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl1, compiling. 
+[2018.06.23-14.08.37:705][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl6, compiling. 
+[2018.06.23-14.08.37:709][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy Mtl67, compiling. 
+[2018.06.23-14.08.37:714][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy NewMaterial_2, compiling. 
+[2018.06.23-14.08.37:718][468]LogMaterial: Missing cached shader map for material FDebugViewModeMaterialProxy CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-14.08.42:959][468]LogShaderCompilers: Display: Shaders left to compile 57
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 56
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 55
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 54
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 53
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 52
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 51
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 49
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 48
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 47
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 46
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 45
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 44
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 43
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 42
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 41
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 39
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 38
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 37
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 36
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 35
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 34
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 33
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 32
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 31
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 29
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 28
+[2018.06.23-14.08.42:960][468]LogShaderCompilers: Display: Shaders left to compile 27
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 26
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 25
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 24
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 23
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 22
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 21
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 19
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 18
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 17
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 16
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 15
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 14
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 13
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 12
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 11
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 9
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 8
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 7
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 6
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 5
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 4
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 3
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-14.08.42:961][468]LogShaderCompilers: Display: Shaders left to compile 1
+[2018.06.23-14.08.42:961][468]TextureStreamingBuild: Display: Compiling optional shaders took 5.575 seconds.
+[2018.06.23-14.08.42:994][468]LogLevel: Display: Export Material TexCoord Scales took 0.033 seconds.
+[2018.06.23-14.08.43:050][468]TextureStreamingBuild: Display: Build Texture Streaming took 0.056 seconds.
+[2018.06.23-14.08.43:083][468]LightingResults: New page: Lighting Build - 23 Jun 2018 16:08:43
+[2018.06.23-14.08.43:218][468]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2018.06.23-14.08.43:445][468]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2018.06.23-14.08.43:455][468]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2018.06.23-14.08.44:630][468]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2018.06.23-14.08.44:631][468]LogSwarmInterface: [TryOpenConnection] Local Process ID is 19684
+[2018.06.23-14.08.47:414][468]LogStaticLightingSystem: Warning: No importance volume found, so the scene bounding box was used.  You can optimize your scene's quality and lighting build times by adding importance volumes.
+[2018.06.23-14.08.47:415][468]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2018.06.23-14.08.47:415][468]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2018.06.23-14.08.47:415][468]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2018.06.23-14.08.47:415][468]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2018.06.23-14.08.47:415][468]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2018.06.23-14.08.47:597][468]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.06.23-14.08.47:597][468]MapCheck: New page: TEstMap - 23 Jun 2018 16:08:47
+[2018.06.23-14.08.47:597][468]MapCheck: Error: WorldSettings_1 Maps need lighting rebuilt 
+[2018.06.23-14.08.47:601][468]MapCheck: Error: VENTURIAIR3_24 VENTURIAIR3_24 : Invalid DrawScale/DrawScale3D 
+[2018.06.23-14.08.47:601][468]MapCheck: Error: Cube7_2 Cube7_2 : Invalid DrawScale/DrawScale3D 
+[2018.06.23-14.08.47:721][468]MapCheck: Map check complete: 3 Error(s), 0 Warning(s), took 123.674ms to complete.
+[2018.06.23-14.08.47:744][468]LogEditorBuildUtils: Build time 0:10
+[2018.06.23-14.08.47:887][469]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-14.08.47:895][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-14.08.47:895][469]LogMaterial: Missing cached shader map for material FLightmassMaterialRenderer CIPHE-logo__2__Mat, compiling. 
+[2018.06.23-14.08.47:955][469]LogShaderCompilers: Display: Shaders left to compile 2
+[2018.06.23-14.08.52:023][479]LogSavePackage: Save=916.35ms
+[2018.06.23-14.08.52:023][479]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap_Auto53E4983874208C7C7732B659B469EAC21.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto5.umap'
+[2018.06.23-14.08.52:025][479]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Autosaves/Game/TEstMap_Auto5.umap
+[2018.06.23-14.08.52:028][479]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/TEstMap' took 0.970
+[2018.06.23-14.08.52:028][479]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.970
+[2018.06.23-14.09.00:448][505]LightingResults: Warning: fbx_Body_90 Object has overlapping UVs.
+[2018.06.23-14.09.00:449][505]LightingResults: fbx_Body_90 Lightmap UV are overlapping by 7.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.00:815][506]LightingResults: Warning: fbx_Body_88 Object has overlapping UVs.
+[2018.06.23-14.09.00:815][506]LightingResults: fbx_Body_88 Lightmap UV are overlapping by 1.1%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.03:140][513]LightingResults: Warning: fbx_Body_81 Object has overlapping UVs.
+[2018.06.23-14.09.03:140][513]LightingResults: fbx_Body_81 Lightmap UV are overlapping by 1.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.03:492][514]LightingResults: Warning: fbx_Body_77 Object has overlapping UVs.
+[2018.06.23-14.09.03:493][514]LightingResults: fbx_Body_77 Lightmap UV are overlapping by 1.0%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.04:509][517]LightingResults: Warning: fbx_3DGeom_3219 Object has overlapping UVs.
+[2018.06.23-14.09.04:510][517]LightingResults: fbx_3DGeom_3219 Lightmap UV are overlapping by 12.3%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.06:525][523]LightingResults: Warning: fbx_3DGeom_6105 Object has overlapping UVs.
+[2018.06.23-14.09.06:525][523]LightingResults: fbx_3DGeom_6105 Lightmap UV are overlapping by 1.4%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.07:544][526]LightingResults: Warning: fbx_3DGeom_2517 Object has overlapping UVs.
+[2018.06.23-14.09.07:545][526]LightingResults: fbx_3DGeom_2517 Lightmap UV are overlapping by 2.8%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.08:211][528]LightingResults: Warning: fbx_3DGeom_3214 Object has overlapping UVs.
+[2018.06.23-14.09.08:211][528]LightingResults: fbx_3DGeom_3214 Lightmap UV are overlapping by 17.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.08:536][529]LightingResults: Warning: fbx_3DGeom_34 Object has overlapping UVs.
+[2018.06.23-14.09.08:536][529]LightingResults: fbx_3DGeom_34 Lightmap UV are overlapping by 38.7%. Please adjust content - Enable Error Coloring to visualize.
+[2018.06.23-14.09.17:004][554]Job is a success!
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.017s
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:      BrickData 290x5x5 = 0.3Mb
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:      Bricks at Level
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:          0: 1.7% covering 100.0% of volume
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:          1: 6.9% covering 6.3% of volume
+[2018.06.23-14.09.17:414][555]LogVolumetricLightmapImport:          2: 91.4% covering 1.3% of volume
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 2048X2048)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 2048X2048)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 1024X1024)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 1024X1024)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: HQ_Lightmap0_3 (AutoDXT, 512X512)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: LQ_Lightmap_0_3 (DXT1, 512X512)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: HQ_Lightmap0_4 (AutoDXT, 64X64)
+[2018.06.23-14.09.19:199][555]LogTexture: Display: Building textures: LQ_Lightmap_0_4 (DXT1, 64X64)
+[2018.06.23-14.09.19:399][555]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 32X32)
+[2018.06.23-14.09.19:399][555]LogTexture: Display: Building textures: ShadowMapTexture2D_1 (G8, 1024X512)
+[2018.06.23-14.09.19:480][555]LogTexture: Display: Building textures: ShadowMapTexture2D_0 (G8, 1024X1024)
+[2018.06.23-14.09.19:526][555]Lightmass on DAN-PC: 29.2 sec total, 3.29 sec importing, 675 ms setup, 4.44 sec photons, 20.8 sec processing, 0 ms extra exporting [140/140 mappings]. Threads: 2:25 min total, 1:09 min processing.
+[2018.06.23-14.09.19:581][555]LogStaticLightingSystem: Illumination: 36.1 sec (1.61 sec encoding lightmaps, 278 ms encoding shadowmaps)
+[2018.06.23-14.09.19:581][555]LogStaticLightingSystem: Lightmap texture memory:  10.5 MB (10.5 MB streaming, 0.0 MB non-streaming), 8 textures
+[2018.06.23-14.09.19:581][555]LogStaticLightingSystem: Shadowmap texture memory: 2.0 MB (2.0 MB streaming, 0.0 MB non-streaming), 3 textures
+[2018.06.23-14.09.24:501][555]DumpUnbuiltLightIteractions
+[2018.06.23-14.09.24:501][555]Lights with unbuilt interactions: 0
+[2018.06.23-14.09.24:501][555]
+[2018.06.23-14.09.24:501][555]Primitives with unbuilt interactions: 0
+[2018.06.23-14.09.24:647][556]Cmd: MAP CHECK NOTIFYRESULTS
+[2018.06.23-14.09.24:647][556]MapCheck: New page: TEstMap - 23 Jun 2018 16:09:24
+[2018.06.23-14.09.24:651][556]MapCheck: Error: VENTURIAIR3_24 VENTURIAIR3_24 : Invalid DrawScale/DrawScale3D 
+[2018.06.23-14.09.24:652][556]MapCheck: Error: Cube7_2 Cube7_2 : Invalid DrawScale/DrawScale3D 
+[2018.06.23-14.09.24:781][556]MapCheck: Map check complete: 2 Error(s), 0 Warning(s), took 133.827ms to complete.
+[2018.06.23-14.09.27:789][565]LogSlate: Window 'Message Log' being destroyed
+[2018.06.23-14.09.32:492][832]LogSavePackage: Save=729.71ms
+[2018.06.23-14.09.32:492][832]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap532BD0424965935272EA0EB7E3372DD1.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap.umap'
+[2018.06.23-14.09.32:497][832]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap.umap
+[2018.06.23-14.09.32:515][832]LogFileHelpers: Saving map 'TEstMap' took 0.899
+[2018.06.23-14.09.32:518][832]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/TEstMap_BuiltData" FILE="C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap_BuiltData.uasset" SILENT=true
+[2018.06.23-14.09.36:218][832]LogSavePackage: Save=375.54ms
+[2018.06.23-14.09.36:218][832]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/TEstMap_BuiltDataA690165A4546B6748AFF748494E1DAAF.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap_BuiltData.uasset'
+[2018.06.23-14.09.36:223][832]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TEstMap_BuiltData.uasset
+[2018.06.23-14.09.36:295][832]LogSavePackage: Save=52.28ms
+[2018.06.23-14.09.36:295][832]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/GoogleVRPawn3D7E4DA846AE9575E608FD9052B762B4.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TeleportVR/VR_Pawns/GoogleVRPawn.uasset'
+[2018.06.23-14.09.36:308][832]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/TeleportVR/VR_Pawns/GoogleVRPawn.uasset
+[2018.06.23-14.09.36:335][832]LogSavePackage: Save=6.89ms
+[2018.06.23-14.09.36:335][832]LogSavePackage: Moving 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/CIPHE-logo__2__MatDF6ADB2941A3077458A393932E8AB4B7.tmp' to 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Widgets/CIPHE-logo__2__Mat.uasset'
+[2018.06.23-14.09.36:338][832]LogSavePackage: Display: Finished SavePackage C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Widgets/CIPHE-logo__2__Mat.uasset
+[2018.06.23-14.09.41:938][951]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2018.06.23-14.09.42:013][951]LogSlate: Window 'VRMovementTest - Unreal Editor' being destroyed
+[2018.06.23-14.09.42:014][951]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2018.06.23-14.09.42:280][951]LogDirectoryWatcher: A directory notification for '../../../Engine/Plugins/' was aborted.
+[2018.06.23-14.09.42:291][952]Cmd: QUIT_EDITOR
+[2018.06.23-14.09.42:334][952]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2018.06.23-14.09.42:334][952]LogSlate: Slate User Destroyed.  User Index 8, Is Virtual User: 1
+[2018.06.23-14.09.42:334][952]LogExit: Preparing to exit.
+[2018.06.23-14.09.43:097][952]PIE: UWidget::RemoveFromParent() called on 'None.TEstMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.23-14.09.43:097][952]PIE: UWidget::RemoveFromParent() called on 'None.TEstMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.23-14.09.43:099][952]PIE: UWidget::RemoveFromParent() called on 'None.TEstMap:None' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2018.06.23-14.09.43:157][952]LogExit: Editor shut down
+[2018.06.23-14.09.43:163][952]LogExit: Transaction tracking system shut down
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for '../../../Engine/Content/' was aborted.
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/' was aborted.
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for '../../Plugins/2D/Paper2D/Content/' was aborted.
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for '../../Plugins/Enterprise/DatasmithContent/Content/' was aborted.
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for '../../Plugins/Media/MediaCompositing/Content/' was aborted.
+[2018.06.23-14.09.43:376][952]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/AppleARKit/Content/' was aborted.
+[2018.06.23-14.09.43:377][952]LogDirectoryWatcher: A directory notification for '../../Plugins/Runtime/GoogleVR/GoogleVRController/Content/' was aborted.
+[2018.06.23-14.09.43:576][952]LogExit: Object subsystem successfully closed.
+[2018.06.23-14.09.43:606][952]LogShaderCompilers: Display: Shaders left to compile 0
+[2018.06.23-14.09.43:615][952]LogD3D11RHI: Shutdown
+[2018.06.23-14.09.43:615][952]LogD3D11RHI: CleanupD3DDevice
+[2018.06.23-14.09.43:618][952]LogD3D11RHI: ~FD3D11DynamicRHI
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODUtilities (574)
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module BlueprintGraph (572)
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (570)
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (568)
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module SceneOutliner (566)
+[2018.06.23-14.09.43:639][952]LogModuleManager: Shutting down and abandoning module AddContentDialog (564)
+[2018.06.23-14.09.43:640][952]LogDirectoryWatcher: A directory notification for 'H:/UE_4.19/FeaturePacks/' was aborted.
+[2018.06.23-14.09.43:641][952]LogModuleManager: Shutting down and abandoning module WidgetCarousel (563)
+[2018.06.23-14.09.43:641][952]LogModuleManager: Shutting down and abandoning module EditorWidgets (560)
+[2018.06.23-14.09.43:642][952]LogModuleManager: Shutting down and abandoning module CollectionManager (558)
+[2018.06.23-14.09.43:642][952]LogDirectoryWatcher: A directory notification for 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Collections/' was aborted.
+[2018.06.23-14.09.43:642][952]LogDirectoryWatcher: A directory notification for 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Content/Developers/dan/Collections/' was aborted.
+[2018.06.23-14.09.43:642][952]LogDirectoryWatcher: A directory notification for 'C:/Users/dan/Documents/Unreal Projects/FabdecVRProject/Fabdec-VR-Project/VRMovementTest/Saved/Collections/' was aborted.
+[2018.06.23-14.09.43:642][952]LogModuleManager: Shutting down and abandoning module StatsViewer (556)
+[2018.06.23-14.09.43:642][952]LogModuleManager: Shutting down and abandoning module FoliageEdit (554)
+[2018.06.23-14.09.43:642][952]LogModuleManager: Shutting down and abandoning module LandscapeEditor (552)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module MeshPaintMode (550)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (548)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module ActorPickerMode (546)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module GeometryMode (544)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module TextureAlignMode (542)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module BspMode (540)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (538)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module HardwareSurvey (536)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (534)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module AutomationWorker (532)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (530)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module SequenceRecorder (529)
+[2018.06.23-14.09.43:643][952]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (526)
+[2018.06.23-14.09.43:644][952]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (524)
+[2018.06.23-14.09.43:644][952]LogModuleManager: Shutting down and abandoning module PlacementMode (523)
+[2018.06.23-14.09.43:644][952]LogModuleManager: Shutting down and abandoning module MaterialEditor (522)
+[2018.06.23-14.09.43:644][952]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (518)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (516)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (514)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (512)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (510)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (508)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (506)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (504)
+[2018.06.23-14.09.43:645][952]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (502)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (500)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module CharacterAI (498)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module SmartSnapping (496)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module SessionServices (494)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module ViewportSnapping (492)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module ViewportInteraction (490)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module ClothPainter (488)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (487)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module LogVisualizer (484)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module IntroTutorials (482)
+[2018.06.23-14.09.43:646][952]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (481)
+[2018.06.23-14.09.43:647][952]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (478)
+[2018.06.23-14.09.43:647][952]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (476)
+[2018.06.23-14.09.43:647][952]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (474)
+[2018.06.23-14.09.43:647][952]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (473)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (470)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (468)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (466)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module InputBindingEditor (464)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module MergeActors (462)
+[2018.06.23-14.09.44:238][952]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (460)
+[2018.06.23-14.09.44:239][952]LogModuleManager: Shutting down and abandoning module LocalizationService (459)
+[2018.06.23-14.09.44:239][952]LogModuleManager: Shutting down and abandoning module HardwareTargeting (456)
+[2018.06.23-14.09.44:239][952]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (454)
+[2018.06.23-14.09.44:239][952]LogModuleManager: Shutting down and abandoning module UndoHistory (452)
+[2018.06.23-14.09.44:239][952]LogModuleManager: Shutting down and abandoning module XmlParser (450)
+[2018.06.23-14.09.44:241][952]LogModuleManager: Shutting down and abandoning module Blutility (448)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (446)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (445)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (442)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module SettingsEditor (440)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module ProjectLauncher (438)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module SessionFrontend (436)
+[2018.06.23-14.09.44:242][952]LogModuleManager: Shutting down and abandoning module ProfilerClient (434)
+[2018.06.23-14.09.44:243][952]LogModuleManager: Shutting down and abandoning module DeviceManager (432)
+[2018.06.23-14.09.44:243][952]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (431)
+[2018.06.23-14.09.44:309][952]LogModuleManager: Shutting down and abandoning module AutomationController (428)
+[2018.06.23-14.09.44:309][952]LogModuleManager: Shutting down and abandoning module AutomationWindow (426)
+[2018.06.23-14.09.44:312][952]LogModuleManager: Shutting down and abandoning module Layers (424)
+[2018.06.23-14.09.44:314][952]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (422)
+[2018.06.23-14.09.44:314][952]LogModuleManager: Shutting down and abandoning module DetailCustomizations (420)
+[2018.06.23-14.09.44:314][952]LogModuleManager: Shutting down and abandoning module PackagesDialog (418)
+[2018.06.23-14.09.44:314][952]LogModuleManager: Shutting down and abandoning module Persona (416)
+[2018.06.23-14.09.44:315][952]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (415)
+[2018.06.23-14.09.44:315][952]LogModuleManager: Shutting down and abandoning module AnimGraph (413)
+[2018.06.23-14.09.44:315][952]LogModuleManager: Shutting down and abandoning module Kismet (410)
+[2018.06.23-14.09.44:322][952]LogModuleManager: Shutting down and abandoning module GraphEditor (408)
+[2018.06.23-14.09.44:323][952]LogModuleManager: Shutting down and abandoning module ClassViewer (406)
+[2018.06.23-14.09.44:323][952]LogModuleManager: Shutting down and abandoning module Toolbox (404)
+[2018.06.23-14.09.44:323][952]LogModuleManager: Shutting down and abandoning module ModuleUI (402)
+[2018.06.23-14.09.44:323][952]LogModuleManager: Shutting down and abandoning module MovieSceneTools (400)
+[2018.06.23-14.09.44:324][952]LogModuleManager: Shutting down and abandoning module OutputLog (398)
+[2018.06.23-14.09.44:324][952]LogModuleManager: Shutting down and abandoning module GammaUI (396)
+[2018.06.23-14.09.44:324][952]LogModuleManager: Shutting down and abandoning module Documentation (394)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (392)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module MovieScene (390)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (388)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module LauncherPlatform (386)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module AnalyticsET (384)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module PortalServices (382)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module PortalRpc (380)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module MessagingRpc (378)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module AIModule (376)
+[2018.06.23-14.09.44:325][952]LogModuleManager: Shutting down and abandoning module GameplayDebugger (375)
+[2018.06.23-14.09.44:326][952]LogModuleManager: Shutting down and abandoning module AITestSuite (373)
+[2018.06.23-14.09.44:326][952]LogModuleManager: Shutting down and abandoning module DesktopPlatform (370)
+[2018.06.23-14.09.44:326][952]LogModuleManager: Shutting down and abandoning module ProfilerService (368)
+[2018.06.23-14.09.44:434][952]LogModuleManager: Shutting down and abandoning module TaskGraph (366)
+[2018.06.23-14.09.44:434][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (364)
+[2018.06.23-14.09.44:434][952]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (362)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (360)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (358)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module CableComponent (356)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module AudioCapture (354)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (352)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module AndroidPermission (350)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (346)
+[2018.06.23-14.09.44:437][952]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (344)
+[2018.06.23-14.09.44:438][952]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (342)
+[2018.06.23-14.09.44:438][952]LogModuleManager: Shutting down and abandoning module MediaCompositing (340)
+[2018.06.23-14.09.44:438][952]LogModuleManager: Shutting down and abandoning module LinearTimecode (338)
+[2018.06.23-14.09.44:438][952]LogModuleManager: Shutting down and abandoning module ImgMedia (336)
+[2018.06.23-14.09.44:443][952]LogModuleManager: Shutting down and abandoning module HTML5Networking (334)
+[2018.06.23-14.09.44:443][952]LogModuleManager: Shutting down and abandoning module AlembicImporter (332)
+[2018.06.23-14.09.44:443][952]LogModuleManager: Shutting down and abandoning module AlembicLibrary (331)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module GeometryCache (330)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (329)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module DatasmithContent (324)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (322)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module PluginBrowser (320)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (318)
+[2018.06.23-14.09.44:444][952]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (316)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module CryptoKeys (314)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (312)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (310)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module UObjectPlugin (308)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (306)
+[2018.06.23-14.09.44:445][952]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (304)
+[2018.06.23-14.09.44:446][952]LogModuleManager: Shutting down and abandoning module GitSourceControl (302)
+[2018.06.23-14.09.44:446][952]LogModuleManager: Shutting down and abandoning module SourceControl (301)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (298)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (296)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (294)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (292)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module Paper2DEditor (290)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module MeshPaint (289)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (286)
+[2018.06.23-14.09.44:447][952]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (284)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module PhysXVehicles (282)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (280)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysicsEditor (278)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module ImmediatePhysics (276)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module ActorSequence (274)
+[2018.06.23-14.09.44:448][952]LogModuleManager: Shutting down and abandoning module UdpMessaging (272)
+[2018.06.23-14.09.44:551][952]LogModuleManager: Shutting down and abandoning module TcpMessaging (270)
+[2018.06.23-14.09.44:652][952]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (268)
+[2018.06.23-14.09.44:652][952]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (266)
+[2018.06.23-14.09.44:652][952]LogModuleManager: Shutting down and abandoning module FacialAnimation (264)
+[2018.06.23-14.09.44:652][952]LogModuleManager: Shutting down and abandoning module DataValidation (262)
+[2018.06.23-14.09.44:652][952]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (260)
+[2018.06.23-14.09.44:655][952]LogModuleManager: Shutting down and abandoning module LevelEditor (259)
+[2018.06.23-14.09.44:656][952]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (258)
+[2018.06.23-14.09.44:656][952]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (256)
+[2018.06.23-14.09.44:656][952]LogModuleManager: Shutting down and abandoning module MainFrame (254)
+[2018.06.23-14.09.44:656][952]LogModuleManager: Shutting down and abandoning module HotReload (253)
+[2018.06.23-14.09.44:656][952]LogModuleManager: Shutting down and abandoning module ContentBrowser (249)
+[2018.06.23-14.09.44:658][952]LogModuleManager: Shutting down and abandoning module TreeMap (247)
+[2018.06.23-14.09.44:658][952]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (244)
+[2018.06.23-14.09.44:658][952]LogModuleManager: Shutting down and abandoning module LiveLinkEditor (242)
+[2018.06.23-14.09.44:659][952]LogModuleManager: Shutting down and abandoning module LiveLink (240)
+[2018.06.23-14.09.45:647][952]LogModuleManager: Shutting down and abandoning module Paper2D (238)
+[2018.06.23-14.09.45:650][952]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (236)
+[2018.06.23-14.09.45:650][952]LogModuleManager: Shutting down and abandoning module WmfMedia (234)
+[2018.06.23-14.09.45:652][952]LogModuleManager: Shutting down and abandoning module PacketHandler (232)
+[2018.06.23-14.09.45:652][952]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (230)
+[2018.06.23-14.09.45:652][952]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (228)
+[2018.06.23-14.09.45:652][952]LogModuleManager: Shutting down and abandoning module MediaAssets (226)
+[2018.06.23-14.09.45:652][952]LogModuleManager: Shutting down and abandoning module Media (225)
+[2018.06.23-14.09.45:659][952]LogModuleManager: Shutting down and abandoning module Overlay (222)
+[2018.06.23-14.09.45:659][952]LogModuleManager: Shutting down and abandoning module OverlayEditor (221)
+[2018.06.23-14.09.45:659][952]LogModuleManager: Shutting down and abandoning module VREditor (218)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module StringTableEditor (216)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (214)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (212)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module FunctionalTesting (210)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (208)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (207)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module UMG (204)
+[2018.06.23-14.09.45:660][952]LogModuleManager: Shutting down and abandoning module UMGEditor (203)
+[2018.06.23-14.09.45:661][952]LogModuleManager: Shutting down and abandoning module Sequencer (202)
+[2018.06.23-14.09.45:662][952]LogModuleManager: Shutting down and abandoning module MessageLog (199)
+[2018.06.23-14.09.45:662][952]LogModuleManager: Shutting down and abandoning module SlateReflector (194)
+[2018.06.23-14.09.45:663][952]LogModuleManager: Shutting down and abandoning module Slate (192)
+[2018.06.23-14.09.45:663][952]LogModuleManager: Shutting down and abandoning module EditorStyle (190)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module MRMesh (188)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (186)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (184)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module XAudio2 (182)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module Networking (180)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module Core (178)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module LevelSequence (176)
+[2018.06.23-14.09.45:664][952]LogModuleManager: Shutting down and abandoning module KismetCompiler (174)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module MeshUtilities (172)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (171)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (170)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module SimplygonSwarm (169)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module SimplygonMeshReduction (167)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (165)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module MaterialBaking (161)
+[2018.06.23-14.09.45:665][952]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (157)
+[2018.06.23-14.09.45:666][952]LogModuleManager: Shutting down and abandoning module DerivedDataCache (154)
+[2018.06.23-14.09.45:694][952]LogDerivedDataCache: Shutdown
+[2018.06.23-14.09.45:694][952]LogModuleManager: Shutting down and abandoning module XGEController (152)
+[2018.06.23-14.09.45:694][952]LogXGEController: Cleaning working directory: C:/Users/dan/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module TargetPlatform (150)
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (149)
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (147)
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (145)
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (143)
+[2018.06.23-14.09.45:695][952]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (141)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (139)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (137)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (135)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (133)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (131)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module ImageWrapper (130)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (127)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (125)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (123)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (121)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (119)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (117)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (115)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (113)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (111)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Messaging (109)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (107)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (105)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (103)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_PVRTCTargetPlatform (101)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_MultiTargetPlatform (99)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_ETC2TargetPlatform (97)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_ETC1TargetPlatform (95)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_ETC1aTargetPlatform (93)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_DXTTargetPlatform (91)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_ATCTargetPlatform (89)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Android_ASTCTargetPlatform (87)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (85)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (83)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (81)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (79)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (77)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (75)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (73)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (71)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (69)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module InputCore (66)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module Settings (64)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module PhysXCooking (62)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module GoogleVRHMD (60)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module GoogleVRController (58)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (56)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AppleARKit (54)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module AugmentedReality (51)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (48)
+[2018.06.23-14.09.45:696][952]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (44)
+[2018.06.23-14.09.45:697][952]LogModuleManager: Shutting down and abandoning module XMPP (43)
+[2018.06.23-14.09.45:697][952]LogModuleManager: Shutting down and abandoning module HTTP (41)
+[2018.06.23-14.09.45:698][952]LogHttp: Display: Http module shutting down, but needs to wait on 2 outstanding Http requests:
+[2018.06.23-14.09.45:698][952]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FAA8546-4753-3150-713F-2B903013BC8D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=0ebe74a642ff2ab791bbe296c330a758%7C6a16f69eeaa44615a039b4415f763e2c%7Cd0b1f283-0f37-4190-b47f-93078b1a731d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.23-14.09.45:698][952]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B1FAA8546-4753-3150-713F-2B903013BC8D%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.19.0-3944462%2B%2B%2BUE4%2BRelease-4.19&UserID=0ebe74a642ff2ab791bbe296c330a758%7C6a16f69eeaa44615a039b4415f763e2c%7Cd0b1f283-0f37-4190-b47f-93078b1a731d&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2018.06.23-14.09.45:728][952]LogModuleManager: Shutting down and abandoning module SSL (40)
+[2018.06.23-14.09.45:729][952]LogModuleManager: Shutting down and abandoning module AnimationModifiers (36)
+[2018.06.23-14.09.45:729][952]LogModuleManager: Shutting down and abandoning module PropertyEditor (35)
+[2018.06.23-14.09.45:729][952]LogModuleManager: Shutting down and abandoning module AudioEditor (32)
+[2018.06.23-14.09.45:729][952]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2018.06.23-14.09.45:730][952]LogModuleManager: Shutting down and abandoning module ShaderCore (28)
+[2018.06.23-14.09.45:730][952]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2018.06.23-14.09.45:730][952]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module OpenGLDrv (22)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module D3D11RHI (20)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (18)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module Renderer (16)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module Engine (14)
+[2018.06.23-14.09.45:731][952]LogModuleManager: Shutting down and abandoning module CoreUObject (12)
+[2018.06.23-14.09.45:732][952]LogModuleManager: Shutting down and abandoning module NetworkFile (10)
+[2018.06.23-14.09.45:732][952]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (8)
+[2018.06.23-14.09.45:732][952]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2018.06.23-14.09.45:732][952]LogModuleManager: Shutting down and abandoning module SandboxFile (4)
+[2018.06.23-14.09.45:732][952]LogModuleManager: Shutting down and abandoning module PakFile (2)
+[2018.06.23-14.09.45:737][952]LogExit: Exiting.
+[2018.06.23-14.09.45:752][952]Log file closed, 06/23/18 15:09:45
